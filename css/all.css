@@ -253,7 +253,7 @@ h1 {
 	float: left;
 	/* margin: 0 61px 0 0; */
 	/* !при использовании такого марджина, сыпется верстка,дизайнер обьелся грибов */
-	border-bottom: 0.5px solid #4b6049;
+	border-bottom: 1px solid #4b6049;
 }
 
 .nav_menu li {
@@ -376,7 +376,7 @@ main {
 	width: 219px;
 	height: 59px;
 	background: #4b6049;
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 26px;
@@ -428,7 +428,7 @@ main {
 }
 
 .new_from_brand .text h3 {
-	font-family: 'Poiret One';
+	font-family: 'Poiret One', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 60px;
@@ -443,7 +443,7 @@ main {
 	display: block;
 	margin: 0 0 0 423px;
 	width: 416px;
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 40px;
@@ -472,7 +472,7 @@ main {
 	width: 219px;
 	height: 59px;
 	background: #4b6049;
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 26px;
@@ -531,7 +531,7 @@ main {
 }
 
 .blog .item .text h3 {
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 40px;
@@ -542,7 +542,7 @@ main {
 }
 
 .blog .item .text p {
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 26px;
@@ -575,7 +575,7 @@ main {
 }
 
 .blog .item .text span {
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -590,7 +590,7 @@ main {
 }
 
 .blog .more a {
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -664,6 +664,7 @@ footer .footer-menu .img-holder {
 .footer-menu li {
 	width: 200px;
 }
+
 .footer-menu li:last-of-type {
 	width: 232px;
 }
@@ -674,7 +675,7 @@ footer .footer-menu .img-holder {
 }
 
 .footer-menu li a {
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -683,7 +684,7 @@ footer .footer-menu .img-holder {
 }
 
 .footer-menu li .text p {
-	font-family: 'Candara';
+	font-family: 'Candara', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -700,9 +701,11 @@ footer .footer-menu .img-holder {
 	width: 260px;
 	height: 34px;
 }
+
 .payments li {
 	margin-right: 25px;
 }
+
 .payments li:last-of-type {
 	margin-right: 0;
 }
